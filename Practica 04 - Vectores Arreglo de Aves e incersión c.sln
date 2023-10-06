@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 04 - Vectores Arreglo de Aves e incersión c", "Practica 04 - Vectores Arreglo de Aves e incersión c\Practica 04 - Vectores Arreglo de Aves e incersión c.csproj", "{8862E01E-C52D-4CD4-8550-366F725CF067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8862E01E-C52D-4CD4-8550-366F725CF067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8862E01E-C52D-4CD4-8550-366F725CF067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8862E01E-C52D-4CD4-8550-366F725CF067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8862E01E-C52D-4CD4-8550-366F725CF067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6036F003-2FA6-4872-9AEF-B35F8323A698}
+	EndGlobalSection
+EndGlobal
